@@ -5,8 +5,9 @@ layout: default
 # Tyler Hensel
 *Marketing · Sales · Analytics*
 
-**MSBA Candidate at California State University San Marcos** | Escondido, CA
-[LinkedIn](https://linkedin.com/in/tylerhensel) | [Email](mailto:tyler2hensel@gmail.com)
+**MSBA Candidate at California State University San Marcos** · Escondido, CA
+
+   [LinkedIn](https://linkedin.com/in/tylerhensel) · [Email](mailto:tyler2hensel@gmail.com)
 
 ---
 
