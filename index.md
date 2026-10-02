@@ -2,122 +2,56 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Tyler Hensel
+*Marketing · Sales · Analytics*
 
-[Link to another page](./another-page.html).
+**MSBA Candidate at California State University San Marcos** | Escondido, CA
+[LinkedIn](https://linkedin.com/in/tylerhensel) | [Email](mailto:tyler2hensel@gmail.com)
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Summary
+Business graduate with hands-on experience in **retail sales**, **customer insights**, and **digital marketing**. Currently pursuing an MS in Business Analytics, with an analytical mindset and a proven ability to drive revenue through data-informed decisions. Open to roles in *sales, marketing, operations, and analytics*.
 
-# Header 1
+## Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### M.S., Business Analytics (MSBA)
+**California State University San Marcos** | *Expected May 2027*
+- Focus: Predictive modeling · Customer analytics · Revenue forecasting · Marketing ROI
 
-## Header 2
+### B.S., Business Administration, Marketing
+**California State University San Marcos** | *December 2025*
+- Business Community Consulting Certificate, Fall 2025
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Experience
 
-### Header 3
+### Sales Specialist, Apple
+*Escondido, CA | Aug 2025 – Feb 2026*
+- Tracked product attach rates and upsell metrics to maximize revenue per customer interaction
+- Generated leads and identified small-business pipeline opportunities using CRM tools to support account growth
+- Applied NPS and customer behavior insights to exceed sales targets and inform team strategy
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Server, Montage Healdsburg & Summit Kitchen
+*Healdsburg, CA | 2021 – 2023*
+- Delivered premium service in luxury resort and private club settings, managing banquets and VIP events
+- Consistently upsold food and beverage offerings, contributing to higher per-table revenue and repeat guest visits
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Projects
 
-#### Header 4
+### Marketing Research & Social Media Simulation
+*Stukent Simulations (Coursework), CSUSM | Fall 2024 – Spring 2025*
+1. Executed **A/B testing** and campaign performance analysis across paid and organic channels
+2. Identified underperforming segments to improve simulated ROI
+3. Managed end-to-end campaign execution with defined KPI targets, monitoring engagement, CTR, and conversion data to guide content and targeting decisions
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### E-Portfolio
+*Built with GitHub Pages and the Jekyll `minimal` theme*
+- This site, written in Markdown and deployed through GitHub Pages
 
-##### Header 5
+## Skills & Tools
+- **Analytics:** A/B Testing · ROI Analysis · Data Visualization · Revenue Analysis · Campaign Management
+- **Tools:** `Google Ads` · `CRM` · `Microsoft Office` · `Google Suite` · `SQL` (learning) · `Python` (learning)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Certifications
+1. Google Ads Search Certification, *November 2025*
+2. Business Community Consulting Certificate, CSUSM, *Fall 2025*
