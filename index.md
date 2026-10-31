@@ -39,6 +39,10 @@ Business graduate with hands-on experience in **retail sales**, **customer insig
 
 ## Projects
 
+### E-Portfolio Guide
+*Step-by-step guide*
+- [How I Built This E-Portfolio](./eportfolio-guide/): how I created this site with GitHub Pages, Jekyll, and the Minimal theme
+
 ### Marketing Research & Social Media Simulation
 *Stukent Simulations (Coursework), CSUSM | Fall 2024 – Spring 2025*
 1. Executed **A/B testing** and campaign performance analysis across paid and organic channels

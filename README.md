@@ -5,6 +5,7 @@ Personal e-portfolio for Tyler Hensel, built with GitHub Pages and the Jekyll mi
 ## References
 
 Anthropic. (2026). Claude (Opus 5.5) [Large language model]. https://claude.ai
-Used to help format resume content into Markdown (index.md) and troubleshoot theme setup and deployment.
+
+Used to help format resume content into Markdown (index.md), troubleshoot theme setup and deployment, and draft and format the e-portfolio guide (eportfolio-guide/index.md).
 
 pages-themes. (n.d.). Minimal [Jekyll theme]. GitHub. https://github.com/pages-themes/minimal
